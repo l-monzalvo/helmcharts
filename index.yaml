@@ -3,7 +3,7 @@ entries:
   greeting-app:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-01-05T09:59:29.237493459-06:00"
+    created: "2026-01-05T13:39:53.700279059-06:00"
     description: A Helm chart for Kubernetes
     digest: 1ff32e4bec5f181cef474a012821c2cdae7ce2bac3886ed87a94d8efc3b5177f
     name: greeting-app
@@ -13,7 +13,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-01-05T09:59:29.239806261-06:00"
+    created: "2026-01-05T13:39:53.703262458-06:00"
     description: A Helm chart for Kubernetes
     digest: 4ad223359acdd6c2cb0362ce29c8184292e54855edd29e1d7a266f52ca0b9a4b
     name: greeting-app
@@ -24,7 +24,17 @@ entries:
   weather-app:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-01-05T09:59:29.2392681-06:00"
+    created: "2026-01-05T13:39:53.702709253-06:00"
+    description: A Helm chart for Kubernetes
+    digest: d6f87f280d164bf1527fdb576f1703edb66a997d581f42bc9a7944fbd7e21cf4
+    name: weather-app
+    type: application
+    urls:
+    - weather-app-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-01-05T13:39:53.702104159-06:00"
     description: A Helm chart for Kubernetes
     digest: cb6743b93c3c78577eec1edcc8e12e7aa84bebfb84a3749f26056e3888b4bfbc
     name: weather-app
@@ -34,7 +44,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-01-05T09:59:29.238688827-06:00"
+    created: "2026-01-05T13:39:53.701453736-06:00"
     description: A Helm chart for Kubernetes
     digest: 02251a1a789e8f845a4ea174b961f244792c475ef25fc2a6e7333178f505dd04
     name: weather-app
@@ -44,7 +54,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-01-05T09:59:29.238088152-06:00"
+    created: "2026-01-05T13:39:53.700874062-06:00"
     description: A Helm chart for Kubernetes
     digest: d8fbf47a35173c42a89a5ecc1231f31d8fd051ac63814aa7199d8fae36538056
     name: weather-app
@@ -52,4 +62,4 @@ entries:
     urls:
     - weather-app-0.1.0.tgz
     version: 0.1.0
-generated: "2026-01-05T09:59:29.236753595-06:00"
+generated: "2026-01-05T13:39:53.699636194-06:00"
