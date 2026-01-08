@@ -3,9 +3,19 @@ entries:
   crm-app:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-01-07T23:56:58.068738482-06:00"
+    created: "2026-01-08T13:46:19.484881549-06:00"
     description: A Helm chart for Kubernetes
-    digest: fcda2f4058a3491bfad099a502c7f7eef41d3fa76e54da716538dabeba5d7c31
+    digest: f7fe1a248dd2424c1a522ba7c6a38c9169739978bcc5ec7fc6ba19ac2b84a7c5
+    name: crm-app
+    type: application
+    urls:
+    - crm-app-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-01-08T13:46:19.484168205-06:00"
+    description: A Helm chart for Kubernetes
+    digest: f63e0a2a029d5334291e25db08b6a3015cec96b4a1a57f046de12dad5b18f469
     name: crm-app
     type: application
     urls:
@@ -14,7 +24,7 @@ entries:
   greeting-app:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-01-07T23:56:58.071160118-06:00"
+    created: "2026-01-08T13:46:19.486084353-06:00"
     description: A Helm chart for Kubernetes
     digest: c261f767ca4e38a629548554d6746b8c0eee87f46036b3a84814172e786d5e91
     name: greeting-app
@@ -24,7 +34,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-01-07T23:56:58.06962411-06:00"
+    created: "2026-01-08T13:46:19.485549002-06:00"
     description: A Helm chart for Kubernetes
     digest: 1ff32e4bec5f181cef474a012821c2cdae7ce2bac3886ed87a94d8efc3b5177f
     name: greeting-app
@@ -34,7 +44,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-01-07T23:56:58.07531439-06:00"
+    created: "2026-01-08T13:46:19.490067101-06:00"
     description: A Helm chart for Kubernetes
     digest: 4ad223359acdd6c2cb0362ce29c8184292e54855edd29e1d7a266f52ca0b9a4b
     name: greeting-app
@@ -45,7 +55,7 @@ entries:
   weather-app:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-01-07T23:56:58.074479825-06:00"
+    created: "2026-01-08T13:46:19.488660227-06:00"
     description: A Helm chart for Kubernetes
     digest: d6f87f280d164bf1527fdb576f1703edb66a997d581f42bc9a7944fbd7e21cf4
     name: weather-app
@@ -55,7 +65,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-01-07T23:56:58.073712837-06:00"
+    created: "2026-01-08T13:46:19.488068738-06:00"
     description: A Helm chart for Kubernetes
     digest: cb6743b93c3c78577eec1edcc8e12e7aa84bebfb84a3749f26056e3888b4bfbc
     name: weather-app
@@ -65,7 +75,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-01-07T23:56:58.072839376-06:00"
+    created: "2026-01-08T13:46:19.487356262-06:00"
     description: A Helm chart for Kubernetes
     digest: 02251a1a789e8f845a4ea174b961f244792c475ef25fc2a6e7333178f505dd04
     name: weather-app
@@ -75,7 +85,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-01-07T23:56:58.071939405-06:00"
+    created: "2026-01-08T13:46:19.48668069-06:00"
     description: A Helm chart for Kubernetes
     digest: d8fbf47a35173c42a89a5ecc1231f31d8fd051ac63814aa7199d8fae36538056
     name: weather-app
@@ -83,4 +93,4 @@ entries:
     urls:
     - weather-app-0.1.0.tgz
     version: 0.1.0
-generated: "2026-01-07T23:56:58.067746302-06:00"
+generated: "2026-01-08T13:46:19.483366592-06:00"
